@@ -1,0 +1,7 @@
+body{
+    background-color: aqua;
+}
+.center{
+    width: fit-content;
+    margin: 0 auto;
+}

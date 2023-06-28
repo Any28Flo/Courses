@@ -1,0 +1,9 @@
+.grid{
+    display: grid;
+    border: solid red 1px;
+    height: 60px;
+}
+.grid-item{
+    align-self: center;
+    justify-self: center;
+}

@@ -1,0 +1,5 @@
+# ninja log v5
+0	385	1668852770595383284	CMakeFiles/luhnvalidation.dir/main.cpp.o	b1aae4d3c2616f1d
+387	449	1668852770664853620	luhnvalidation	4da00f7522b4e7c7
+6	407	1668854263416680597	CMakeFiles/luhnvalidation.dir/main.cpp.o	b1aae4d3c2616f1d
+408	489	1668854263503512442	luhnvalidation	4da00f7522b4e7c7
